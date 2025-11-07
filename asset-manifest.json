@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kisisel-site/static/css/main.32478155.css",
+    "main.js": "/kisisel-site/static/js/main.30303357.js",
+    "static/js/453.410d171d.chunk.js": "/kisisel-site/static/js/453.410d171d.chunk.js",
+    "index.html": "/kisisel-site/index.html",
+    "main.32478155.css.map": "/kisisel-site/static/css/main.32478155.css.map",
+    "main.30303357.js.map": "/kisisel-site/static/js/main.30303357.js.map",
+    "453.410d171d.chunk.js.map": "/kisisel-site/static/js/453.410d171d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32478155.css",
+    "static/js/main.30303357.js"
+  ]
+}
