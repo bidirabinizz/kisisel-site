@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kisisel-site/static/css/main.32478155.css",
-    "main.js": "/kisisel-site/static/js/main.babc1476.js",
+    "main.js": "/kisisel-site/static/js/main.78707001.js",
     "index.html": "/kisisel-site/index.html",
     "main.32478155.css.map": "/kisisel-site/static/css/main.32478155.css.map",
-    "main.babc1476.js.map": "/kisisel-site/static/js/main.babc1476.js.map"
+    "main.78707001.js.map": "/kisisel-site/static/js/main.78707001.js.map"
   },
   "entrypoints": [
     "static/css/main.32478155.css",
-    "static/js/main.babc1476.js"
+    "static/js/main.78707001.js"
   ]
 }
